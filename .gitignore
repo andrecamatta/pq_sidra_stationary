@@ -154,7 +154,7 @@ cython_debug/
 ~$*.xls
 
 # Data files (consider adding specific data files if needed)
-*.xlsx
+#*.xlsx
 *.csv
 *.json
 *.xml
